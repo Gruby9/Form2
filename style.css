@@ -1,0 +1,16 @@
+form,
+input,
+label,
+span {
+  width: 350px;
+}
+
+span {
+  position: absolute;
+  background-color: red;
+}
+
+input:invalid {
+  border: 3px solid red;
+}
+/*# sourceMappingURL=style.css.map */
